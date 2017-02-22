@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/packages
+/webapiskeleton/bin
+/webapiskeleton/log
+/webapiskeleton/obj/Debug
